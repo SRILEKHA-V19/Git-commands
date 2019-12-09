@@ -1,0 +1,11 @@
+Hello,
+
+this is a new file
+We can add, delete, modify, update, save files.
+
+
+Git commands can be used to do these tasks or it can be manually done by selecting some options in a repository.
+
+
+
+Thank you!
